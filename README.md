@@ -4,8 +4,16 @@ Decipher Nedry's code to reactivate the security system, Hammond and the park's 
 # Requirements
 Microsoft Excel, tested in 2010 - 64 bit
 
-# Macros
-There is one module, and two userforms. The userform will automatically load if events are enabled (which they normally are).
+# Files
+Run the "Magic Words.xlsb" file to get everything in one file.
+
+Each individual module:
+f_jp.frm
+f_mw.frm
+modUF.bas
+ThisWorkbook
+
+They all need to be added to the Excel file, saved and re-loaded.
 
 # Support
 Please contact /u/epicmindwarp on reddit.com or epicmindwarp@gmail.com
