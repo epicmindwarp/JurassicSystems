@@ -1,0 +1,6 @@
+Private Sub Workbook_Open()
+
+    ThisWorkbook.Windows(1).Visible = False
+    f_jp.Show
+
+End Sub
