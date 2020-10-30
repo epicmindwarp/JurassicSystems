@@ -16,4 +16,4 @@ ThisWorkbook
 They all need to be added to the Excel file, saved and re-loaded.
 
 # Support
-Please contact /u/epicmindwarp on reddit.com or epicmindwarp@gmail.com
+Please contact /u/epicmindwarp on reddit.com
